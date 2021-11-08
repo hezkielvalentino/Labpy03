@@ -22,7 +22,7 @@
 
 **FLOWCHART LATIHAN1.PY**
 
-![image are easy]![b31fc1e19002f13208fc5653709b9d8a](https://user-images.githubusercontent.com/93851727/140685090-d8ce60e6-8273-4aba-bfb5-2c6c6b7f62b7.jpg)
+![Image are easy][b31fc1e19002f13208fc5653709b9d8a](https://user-images.githubusercontent.com/93851727/140685090-d8ce60e6-8273-4aba-bfb5-2c6c6b7f62b7.jpg)
 
 
 - Sebelum memulainya pastikan anda punya aplikasi **PYTHON** 
